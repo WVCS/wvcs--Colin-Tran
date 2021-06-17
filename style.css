@@ -9,3 +9,15 @@ color: #808E8E;
   font-size: 50px;
   font-family: TimesNewRoman; 
 }
+
+p {
+color: #808E8E
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  font-size: 20;
+  font-family: TimesNewRoman;
+  border: 2px solid
+
+}
