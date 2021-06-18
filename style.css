@@ -31,5 +31,29 @@ color: #0A0300 ;
   border: 2px double;
   border-color: #CFC5FC;
     background-color: #CDEFF1;
+  
+}
 
+
+
+
+<!----------I USED THE STYLE GIVEN FROM W3 schools----------> 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  width:100%;
+  background-color: #F9F7AA;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 40px;
+  text-align:center;
+  background-color: #000202;
 }
