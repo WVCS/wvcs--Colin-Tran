@@ -45,8 +45,9 @@ ul {
   padding: 0;
   overflow: hidden;
   width:100%;
+  left: 0;
   background-color: #F9F7AA;
-  color: #000202;
+  
 }
 
 li {
