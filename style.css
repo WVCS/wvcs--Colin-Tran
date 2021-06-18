@@ -4,11 +4,12 @@ background-color: #D3FBFC;
 }
 
 h1 {
-color: #808E8E;
+color: #000202;
   text-align: center;
   font-size: 60px;
   font-family: TimesNewRoman; 
-  border: 2px solid; 
+  border: 2px solid;
+  width: 50%;
 }
 
 h2  { 
