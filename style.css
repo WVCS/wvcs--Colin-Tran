@@ -6,12 +6,12 @@ background-color: #D3FBFC;
 h1 {
 color: #808E8E;
   text-align: center;
-  font-size: 50px;
+  font-size: 60px;
   font-family: TimesNewRoman; 
-  border: 2px solid black; 
+  border: 2px solid; 
 }
 
-h2{
+h2  { 
 color:#000202;
   text-align: center;
   font-family: TimesNewRoman;
@@ -19,7 +19,7 @@ padding: 10px;
   border:2px ridge;
 }
 p {
-color: #808E8E
+color: #0A0300 ;
   text-align: left;
   margin-left: auto;
   margin-right: auto;
@@ -28,7 +28,7 @@ color: #808E8E
   font-size: 20;
   font-family: TimesNewRoman;
   border: 2px double;
-  border-color: #F4FCD3;
-    background-color: CDEFF1;
+  border-color: #CFC5FC;
+    background-color: #CDEFF1;
 
 }
