@@ -46,6 +46,7 @@ ul {
   overflow: hidden;
   width:100%;
   background-color: #F9F7AA;
+  color: #000202;
 }
 
 li {
@@ -53,8 +54,9 @@ li {
 }
 
 li a {
+  color: #000202;
   display: block;
   padding: 40px;
   text-align:center;
-  background-color: #000202;
+  background-color:#F9F7AA;
 }
