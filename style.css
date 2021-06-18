@@ -50,13 +50,13 @@ ul {
 }
 
 li {
-  float: left;
+  float: center;
 }
 
 li a {
   display: block;
   color: #000202;
   text-align:center;
-  padding: 50px 100px;
+  padding: 50px;
   background-color:#F9F7AA;
 }
