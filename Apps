@@ -1,0 +1,26 @@
+<html>
+<head> 
+<link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+
+  <h1> Colin's Website </h1>
+
+    <p> On this page, we'll look through each of the apps that we had to create throughout the year. </p>
+    
+    
+    <div class="app1">
+    <br>
+    <hr>
+    <h2> App Project - Most Played Games</h2>
+    <iframe width="352" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/gk6oiVlvc4jOjTf7a0YYLRgmBxe84r_KLxT3kXiDNss/embed"></iframe>
+    <p> This was the first app I made with code.org. It had to have feature several different pages along with an easy way to navigate between these different screens. I decided that this 
+    app specifically would deal with video games since that is a passion of mine. I would present the user base with different genre types for games and their respective popularities. </p>
+    
+    </br>
+    </hr>
+    
+    </div>
+    <div class="app2">
+  </body>
+</html>
