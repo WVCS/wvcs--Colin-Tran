@@ -8,6 +8,7 @@ color: #808E8E;
   text-align: center;
   font-size: 50px;
   font-family: TimesNewRoman; 
+  broder: 2px solid 
 }
 
 p {
@@ -18,6 +19,9 @@ color: #808E8E
   padding: 20px;
   font-size: 20;
   font-family: TimesNewRoman;
-  border: 2px solid
+  border: 2px solid;
+  border-color: #F4FCD3;
+  
+    background-color: CDEFF1;
 
 }
