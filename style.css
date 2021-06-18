@@ -1,5 +1,5 @@
 body {
-background-color: #95FEFC;
+background-color: #D3FBFC;
   background-image: url("canadian-dollar.png);
 }
 
@@ -8,9 +8,16 @@ color: #808E8E;
   text-align: center;
   font-size: 50px;
   font-family: TimesNewRoman; 
-  broder: 2px solid 
+  border: 2px solid black; 
 }
 
+h2{
+color:#000202;
+  text-align: center;
+  font-family: TimesNewRoman;
+padding: 10px;
+  border:2px ridge;
+}
 p {
 color: #808E8E
   display: block;
@@ -19,9 +26,8 @@ color: #808E8E
   padding: 20px;
   font-size: 20;
   font-family: TimesNewRoman;
-  border: 2px solid;
+  border: 2px double;
   border-color: #F4FCD3;
-  
     background-color: CDEFF1;
 
 }
